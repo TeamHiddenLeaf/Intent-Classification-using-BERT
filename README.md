@@ -1,5 +1,8 @@
 # Intent-Classification-using-BERT
 
+
+![1_3nys8S3J6vFCPmu8uQW8Wg](https://user-images.githubusercontent.com/66754032/95029977-bef91c80-0671-11eb-9c07-243884af9150.png)
+
 - Recognizing intent (IR) from text is very useful these days. Usually, you get a short text (sentence or two) and have to classify it into one (or multiple) categories.
 
 - Multiple product support systems (help centers) use IR to reduce the need for a large number of employees that copy-and-paste boring responses to frequently asked questions. Chatbots, automated email responders, answer recommenders (from a knowledge base with questions and answers) strive to not let you take the time of a real person.
@@ -31,4 +34,8 @@
 - For validation we have utilized 1379 samples (0.9935 accuracy).
 
 # Prediction Snapshot
+
+<img width="547" alt="Capture" src="https://user-images.githubusercontent.com/66754032/95029943-92dd9b80-0671-11eb-8e10-7c67b4e82557.PNG">
+
+Happy Coding!
 
