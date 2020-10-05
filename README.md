@@ -29,9 +29,9 @@
 
 - We have utilized 13,784 records for model training.
 
-- We have trained the model through 5 epochs with 12405 samples in each epoch (0.9884 accuracy).
+- We have trained the model through 5 epochs with 12405 samples in each epoch (0.9915 accuracy).
 
-- For validation we have utilized 1379 samples (0.9935 accuracy).
+- For validation we have utilized 1379 samples (0.9771 accuracy).
 
 # Prediction Snapshot
 
