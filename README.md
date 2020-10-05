@@ -31,7 +31,7 @@
 
 - We have trained the model through 5 epochs with 12405 samples in each epoch (0.9915 accuracy).
 
-- For validation we have utilized 1379 samples (0.9771 accuracy).
+- The model has performed pretty well with a test accuracy of 0.9771.
 
 # Prediction Snapshot
 
