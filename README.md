@@ -37,5 +37,7 @@
 
 <img width="547" alt="Capture" src="https://user-images.githubusercontent.com/66754032/95029943-92dd9b80-0671-11eb-8e10-7c67b4e82557.PNG">
 
+#### Credits: Venelin Valkov
+
 Happy Coding!
 
